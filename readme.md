@@ -1,5 +1,7 @@
 # Desafio de Ruby
 
+EN: **This repo contains 3 easy programming challanges written by me in late 2019 to introduce computer engineering freshman to the Ruby Programming Language.**
+
 Nesse desafio, você (com muita fé) aprenderá o "jeito Ruby" de programar, além de aprender um pouco sobre o modelo de orientação a objetos do Ruby.
 
 O "jeito Ruby" de programar se refere ao uso de recursos e de sua sintaxe únicos, que facilitam a vida do programador, mesmo as custas de performance.
